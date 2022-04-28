@@ -4,3 +4,12 @@
 
 
 spring application manage patient 
+
+technologie used with spring 
+
+tymleaf
+bootstrap
+
+
+spring security jdbc used to manage authenftification in the application
+
